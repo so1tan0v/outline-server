@@ -19,10 +19,10 @@ How to use
 
 ### Outline-сlient
 
-URLs to Application 
-IOS: https://apps.apple.com/us/app/outline-app/id1356177741
-Android: https://play.google.com/store/apps/details?id=org.outline.android.client&hl=en_US
-PC or MacOS: https://getoutline.org/ru/get-started/ (In the step 3)
+URLs to application:
+1. IOS: https://apps.apple.com/us/app/outline-app/id1356177741
+2. Android: https://play.google.com/store/apps/details?id=org.outline.android.client&hl=en_US
+3. PC or MacOS: https://getoutline.org/ru/get-started/ (In the step 3)
 
 How to get VPN
 1. Download App
